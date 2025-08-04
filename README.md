@@ -1,8 +1,8 @@
-# Online Quiz Application – Java Console Project
+# Simple Calculator – Java Console Application
 
 ## 📌 Project Overview
 
-This is a command-line Java application built as part of the Coding Samurai Internship Program (Batch A-47). It allows users to participate in a simple multiple-choice quiz and receive instant feedback along with their final score.
+This is a simple command-line calculator built in Java as part of the Coding Samurai Internship Program (Batch A-47). It allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ...
 
